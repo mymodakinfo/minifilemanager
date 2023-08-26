@@ -18,7 +18,7 @@ Open Source, light and extremely simple
 
 Download ZIP with latest version from master branch.
 
-Just copy the tinyfilemanager.php to your webspace - thats all :) You can also change the file name from "tinyfilemanager.php" to something else, you know what i meant for.
+Just copy the mini.php to your webspace - thats all :) You can also change the file name from "mini.php" to something else, you know what i meant for.
 
 Default username/password: admin/admin@123 and user/12345.
 
